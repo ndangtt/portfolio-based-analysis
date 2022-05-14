@@ -1,0 +1,201 @@
+year,track,portSize,ratio,port,set
+2013,free,1,0.2754873158087926,"('chuffed',)",all
+2013,free,2,0.4147301107157773,"('chuffed', 'opturion_cpx')",all
+2013,free,3,0.5440171835478049,"('chuffed', 'or_tools', 'opturion_cpx')",all
+2013,free,4,0.631124190512976,"('chuffed', 'izplus', 'or_tools', 'opturion_cpx')",all
+2013,free,5,0.7199419761916445,"('chuffed', 'izplus', 'or_tools', 'opturion_cpx', 'cplex')",all
+2013,free,6,0.786361113974545,"('chuffed', 'izplus', 'or_tools', 'opturion_cpx', 'cplex', 'gurobi')",all
+2013,free,7,0.8410110081055099,"('chuffed', 'izplus', 'or_tools', 'jacop', 'opturion_cpx', 'cplex', 'gurobi')",all
+2013,free,8,0.8892727015120447,"('chuffed', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx', 'cplex', 'gurobi')",all
+2013,free,9,0.9239643255805416,"('chuffed', 'gecode', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx', 'cplex', 'gurobi')",all
+2013,free,10,0.9557720871573882,"('chuffed', 'gecode', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx', 'lazyfd', 'cplex', 'gurobi')",all
+2013,free,11,0.9827630426894582,"('chuffed', 'gecode', 'g12_fd', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx', 'lazyfd', 'cplex', 'gurobi')",all
+2013,free,12,0.9910158643419338,"('chuffed', 'gecode', 'g12_fd', 'izplus', 'or_tools', 'choco', 'jacop', 'mistral', 'opturion_cpx', 'lazyfd', 'cplex', 'gurobi')",all
+2013,free,13,0.9954985370245328,"('chuffed', 'gecode', 'g12_fd', 'izplus', 'or_tools', 'choco', 'jacop', 'mistral', 'opturion_cpx', 'fzn2smt', 'lazyfd', 'cplex', 'gurobi')",all
+2014,free,1,0.3155417377376616,"('Chuffed',)",all
+2014,free,2,0.5026690500843738,"('Chuffed', 'iZplus')",all
+2014,free,3,0.6171874790102789,"('Chuffed', 'OR_Tools', 'iZplus')",all
+2014,free,4,0.7079517239087098,"('Chuffed', 'Opturion_CPX', 'OR_Tools', 'iZplus')",all
+2014,free,5,0.8022508691259959,"('Chuffed', 'Opturion_CPX', 'OR_Tools', 'iZplus', 'Picat_SAT')",all
+2014,free,6,0.8723124052290472,"('Chuffed', 'Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT')",all
+2014,free,7,0.9221048567845428,"('Chuffed', 'Gecode', 'Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT')",all
+2014,free,8,0.9534100896249076,"('Chuffed', 'Gecode', 'Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral')",all
+2014,free,9,0.972779204444074,"('Chuffed', 'Gecode', 'Opturion_CPX', 'OR_Tools', 'G12_LazyFD', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral')",all
+2014,free,10,0.9912730941040286,"('Chuffed', 'Gecode', 'Opturion_CPX', 'OR_Tools', 'G12_LazyFD', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral', 'Choco')",all
+2014,free,11,0.9916016796640672,"('Chuffed', 'Gecode', 'Opturion_CPX', 'OR_Tools', 'G12_LazyFD', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral', 'SICStus_Prolog', 'Choco')",all
+2015,free,1,0.2499058547213903,"('chuffed',)",all
+2015,free,2,0.4040809881848169,"('chuffed', 'MZN_CPLEX')",all
+2015,free,3,0.4971112226970043,"('chuffed', 'iZplus', 'MZN_CPLEX')",all
+2015,free,4,0.5881391867879673,"('OscaR_CBLS', 'chuffed', 'iZplus', 'MZN_CPLEX')",all
+2015,free,5,0.6586681633881251,"('OscaR_CBLS', 'chuffed', 'iZplus', 'Picat_SAT', 'MZN_CPLEX')",all
+2015,free,6,0.7270413317885952,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'iZplus', 'Picat_SAT', 'MZN_CPLEX')",all
+2015,free,7,0.7911050635542657,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Mistral', 'iZplus', 'Picat_SAT', 'MZN_CPLEX')",all
+2015,free,8,0.846701724051219,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Mistral', 'iZplus', 'Picat_SAT', 'Choco', 'MZN_CPLEX')",all
+2015,free,9,0.8884591142310205,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'iZplus', 'Picat_SAT', 'Choco', 'MZN_CPLEX')",all
+2015,free,10,0.9251826364158572,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'iZplus', 'Picat_SAT', 'Choco', 'YACS', 'MZN_CPLEX')",all
+2015,free,11,0.9619456392438296,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'YACS', 'MZN_CPLEX')",all
+2015,free,12,0.9815807590877776,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'G12_FD', 'YACS', 'MZN_CPLEX')",all
+2015,free,13,0.9918889832133756,"('OscaR_CBLS', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'G12_FD', 'YACS', 'MZN_CPLEX', 'MZN_Gurobi')",all
+2015,free,14,0.9980145726512204,"('OscaR_CBLS', 'MinisatID', 'chuffed', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'G12_FD', 'YACS', 'MZN_CPLEX', 'MZN_Gurobi')",all
+2015,free,15,1.0,"('OscaR_CBLS', 'MinisatID', 'chuffed', 'OR_Tools', 'Gecode', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'G12_FD', 'YACS', 'MZN_CPLEX', 'MZN_Gurobi')",all
+2016,free,1,0.3944223283060782,"('LCG_Glucose_UC',)",all
+2016,free,2,0.5743638240494053,"('MZN_Gurobi', 'LCG_Glucose_UC')",all
+2016,free,3,0.677823963101346,"('MZN_Gurobi', 'LCG_Glucose_UC', 'Chuffed')",all
+2016,free,4,0.7549658541317698,"('iZplus', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Chuffed')",all
+2016,free,5,0.8272679672460692,"('iZplus', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'Chuffed')",all
+2016,free,6,0.8979393953541605,"('iZplus', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'Chuffed')",all
+2016,free,7,0.9345111951703023,"('iZplus', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'Chuffed', 'HaifaCSP')",all
+2016,free,8,0.970893614552854,"('iZplus', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'Chuffed', 'HaifaCSP', 'OR_Tools')",all
+2016,free,9,0.9918993180269732,"('iZplus', 'MZN_CPLEX', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'Chuffed', 'HaifaCSP', 'OR_Tools')",all
+2016,free,10,0.9966394720068592,"('iZplus', 'MZN_CPLEX', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'Chuffed', 'HaifaCSP', 'Mistral', 'OR_Tools')",all
+2016,free,11,0.9979521649766296,"('iZplus', 'MZN_CPLEX', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'MZN_SCIP', 'Chuffed', 'HaifaCSP', 'Mistral', 'OR_Tools')",all
+2016,free,12,0.9982590895014664,"('iZplus', 'MZN_CPLEX', 'MZN_Gurobi', 'LCG_Glucose_UC', 'Picat_SAT', 'LCG_Glucose', 'MZN_SCIP', 'Chuffed', 'HaifaCSP', 'Choco', 'Mistral', 'OR_Tools')",all
+2017,free,1,0.1786370751675214,"('mzn_gurobi',)",all
+2017,free,2,0.3287710190651478,"('or_tools_lcg', 'mzn_gurobi')",all
+2017,free,3,0.4232993465548149,"('mzn_gurobi', 'lcg_glucose', 'choco4')",all
+2017,free,4,0.5033772675336541,"('or_tools_lcg', 'mzn_gurobi', 'choco4', 'picat_sat')",all
+2017,free,5,0.5731280723597352,"('or_tools_lcg', 'mzn_gurobi', 'lcg_glucose', 'choco4', 'concrete')",all
+2017,free,6,0.6461621617477121,"('or_tools_lcg', 'mzn_gurobi', 'chuffed', 'choco4', 'concrete', 'picat_sat')",all
+2017,free,7,0.7123251112460558,"('or_tools_lcg', 'mzn_gurobi', 'izplus', 'chuffed', 'choco4', 'concrete', 'picat_sat')",all
+2017,free,8,0.7734174199556231,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'chuffed', 'choco4', 'concrete', 'picat_sat')",all
+2017,free,9,0.8320635969917284,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'chuffed', 'gecode', 'choco4', 'concrete', 'picat_sat')",all
+2017,free,10,0.8869488290072948,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'chuffed', 'gecode', 'choco4', 'concrete', 'oscar', 'picat_sat')",all
+2017,free,11,0.9307644803343738,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'chuffed', 'lcg_glucose', 'gecode', 'choco4', 'concrete', 'oscar', 'picat_sat')",all
+2017,free,12,0.9582802093056858,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'mistral', 'chuffed', 'lcg_glucose', 'gecode', 'choco4', 'concrete', 'oscar', 'picat_sat')",all
+2017,free,13,0.9801906323164667,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'mistral', 'chuffed', 'lcg_glucose', 'gecode', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",all
+2017,free,14,0.9903180978064168,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'mistral', 'chuffed', 'lcg_glucose', 'haifacsp', 'gecode', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",all
+2017,free,15,0.9993235945911216,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'mistral', 'chuffed', 'lcg_glucose', 'haifacsp', 'gecode', 'or_tools_cp', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",all
+2017,free,16,1.0,"('or_tools_lcg_core', 'or_tools_lcg', 'mzn_gurobi', 'izplus', 'mistral', 'chuffed', 'lcg_glucose', 'haifacsp', 'gecode', 'or_tools_cp', 'choco4', 'choco5', 'concrete', 'oscar', 'picat_sat', 'yuck')",all
+2018,free,1,0.2240865367060133,"('or_tools',)",all
+2018,free,2,0.377825343319662,"('chuffed', 'mzn_cplex')",all
+2018,free,3,0.5084085833219019,"('or_tools', 'chuffed', 'mzn_cplex')",all
+2018,free,4,0.5906059683238639,"('or_tools', 'chuffed', 'mzn_cplex', 'picatsat')",all
+2018,free,5,0.6794975535071412,"('or_tools', 'chuffed', 'izplus', 'mzn_cplex', 'picatsat')",all
+2018,free,6,0.7591338412325767,"('or_tools', 'chuffed', 'izplus', 'mzn_cplex', 'picatsat', 'yuck')",all
+2018,free,7,0.8457269389418258,"('or_tools', 'chuffed', 'choco', 'izplus', 'mzn_cplex', 'picatsat', 'yuck')",all
+2018,free,8,0.9026471824999308,"('or_tools', 'chuffed', 'haifacsp', 'choco', 'izplus', 'mzn_cplex', 'picatsat', 'yuck')",all
+2018,free,9,0.942943806111312,"('or_tools', 'chuffed', 'gecode', 'haifacsp', 'choco', 'izplus', 'mzn_cplex', 'picatsat', 'yuck')",all
+2018,free,10,0.9675225503406668,"('or_tools', 'chuffed', 'gecode', 'jacop', 'haifacsp', 'choco', 'izplus', 'mzn_cplex', 'picatsat', 'yuck')",all
+2018,free,11,0.9870705812291009,"('or_tools', 'chuffed', 'gecode', 'jacop', 'haifacsp', 'choco', 'izplus', 'mzn_cplex', 'oscarcbls', 'picatsat', 'yuck')",all
+2018,free,12,1.0,"('or_tools', 'chuffed', 'gecode', 'jacop', 'haifacsp', 'choco', 'concrete', 'izplus', 'mzn_cplex', 'oscarcbls', 'picatsat', 'yuck')",all
+2019,free,1,0.3710873210342551,"('chuffed',)",all
+2019,free,2,0.5471578606011891,"('or_tools', 'chuffed')",all
+2019,free,3,0.6426366070243513,"('or_tools', 'chuffed', 'yuck')",all
+2019,free,4,0.7347270636046495,"('or_tools', 'chuffed', 'picatsat', 'yuck')",all
+2019,free,5,0.8352019704146806,"('or_tools', 'chuffed', 'picatsat', 'izplus', 'yuck')",all
+2019,free,6,0.896220931680093,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck')",all
+2019,free,7,0.9475477936938996,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck', 'sicstus')",all
+2019,free,8,0.9668943632778938,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck', 'concrete', 'sicstus')",all
+2019,free,9,0.9858331313228528,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck', 'concrete', 'gecode', 'sicstus')",all
+2019,free,10,0.998297440771165,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck', 'concrete', 'oscarcbls', 'gecode', 'sicstus')",all
+2019,free,11,0.9990856234592328,"('or_tools', 'chuffed', 'picatsat', 'mzn_cplex', 'izplus', 'yuck', 'concrete', 'oscarcbls', 'gecode', 'jacop', 'sicstus')",all
+2020,free,1,0.4584140406923832,"('or_tools',)",all
+2020,free,2,0.6486790790174033,"('or_tools', 'geas')",all
+2020,free,3,0.7498797434676254,"('or_tools', 'chuffed', 'geas')",all
+2020,free,4,0.8333391045979309,"('or_tools', 'chuffed', 'flatzingo', 'geas')",all
+2020,free,5,0.8884135540511573,"('or_tools', 'chuffed', 'gecode', 'flatzingo', 'geas')",all
+2020,free,6,0.9378299626303416,"('or_tools', 'chuffed', 'gecode', 'mistral', 'flatzingo', 'geas')",all
+2020,free,7,0.9643530570095744,"('or_tools', 'chuffed', 'gecode', 'mistral', 'picatsat', 'flatzingo', 'geas')",all
+2020,free,8,0.9877763012397742,"('or_tools', 'chuffed', 'gecode', 'mzn_cplex', 'mistral', 'picatsat', 'flatzingo', 'geas')",all
+2020,free,9,0.993956947426052,"('or_tools', 'chuffed', 'gecode', 'mzn_cplex', 'mistral', 'picatsat', 'choco', 'flatzingo', 'geas')",all
+2020,free,10,0.99848994471022,"('or_tools', 'chuffed', 'gecode', 'mzn_cplex', 'mistral', 'picatsat', 'choco', 'flatzingo', 'geas', 'optimathsat_int')",all
+2020,free,11,1.0,"('or_tools', 'chuffed', 'gecode', 'mzn_cplex', 'mistral', 'picatsat', 'choco', 'flatzingo', 'geas', 'optimathsat_int', 'yuck')",all
+2021,free,1,0.3503356776269045,"('or_tools_cp_sat',)",all
+2021,free,2,0.5287218620307703,"('gurobi', 'or_tools_cp_sat')",all
+2021,free,3,0.6282559998617021,"('gurobi', 'or_tools_cp_sat', 'gecode')",all
+2021,free,4,0.720361111014652,"('gurobi', 'or_tools_cp_sat', 'gecode', 'yuck')",all
+2021,free,5,0.7908994074558331,"('gurobi', 'cplex', 'or_tools_cp_sat', 'gecode', 'yuck')",all
+2021,free,6,0.8474926706706529,"('gurobi', 'cplex', 'or_tools_cp_sat', 'choco_solver_4_10_7', 'gecode', 'yuck')",all
+2021,free,7,0.9014043961741336,"('gurobi', 'cplex', 'or_tools_cp_sat', 'picatsat', 'choco_solver_4_10_7', 'gecode', 'yuck')",all
+2021,free,8,0.943513935027236,"('gurobi', 'cplex', 'or_tools_cp_sat', 'picatsat', 'choco_solver_4_10_7', 'gecode', 'chuffed', 'yuck')",all
+2021,free,9,0.9644695052180418,"('gurobi', 'cplex', 'or_tools_cp_sat', 'picatsat', 'choco_solver_4_10_7', 'gecode', 'chuffed', 'geas', 'yuck')",all
+2021,free,10,0.9849068045784588,"('gurobi', 'cplex', 'or_tools_cp_sat', 'picatsat', 'mistral_2_0', 'choco_solver_4_10_7', 'gecode', 'chuffed', 'geas', 'yuck')",all
+2021,free,11,0.9979041732864592,"('gurobi', 'cplex', 'or_tools_cp_sat', 'picatsat', 'mistral_2_0', 'choco_solver_4_10_7', 'jacop', 'gecode', 'chuffed', 'geas', 'yuck')",all
+2021,free,12,0.999431509858136,"('gurobi', 'izplus', 'cplex', 'or_tools_cp_sat', 'picatsat', 'mistral_2_0', 'choco_solver_4_10_7', 'jacop', 'gecode', 'chuffed', 'geas', 'yuck')",all
+2013,free,1,0.17373124184890942,"('opturion_cpx',)",participants-only
+2013,free,2,0.336571444202634,"('or_tools', 'opturion_cpx')",participants-only
+2013,free,3,0.41545548547754985,"('izplus', 'or_tools', 'opturion_cpx')",participants-only
+2013,free,4,0.45817415081985996,"('gecode', 'izplus', 'or_tools', 'opturion_cpx')",participants-only
+2013,free,5,0.49438473242440895,"('gecode', 'izplus', 'or_tools', 'jacop', 'opturion_cpx')",participants-only
+2013,free,6,0.5358663931244099,"('gecode', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx')",participants-only
+2013,free,7,0.563392963356395,"('gecode', 'izplus', 'or_tools', 'jacop', 'mistral', 'opturion_cpx', 'fzn2smt')",participants-only
+2013,free,8,0.5694972997745467,"('gecode', 'izplus', 'or_tools', 'choco', 'jacop', 'mistral', 'opturion_cpx', 'fzn2smt')",participants-only
+2013,free,9,0.5719950753449966,"('gecode', 'izplus', 'or_tools', 'choco', 'jacop', 'mistral', 'opturion_cpx', 'fzn2smt', 'picat')",participants-only
+2014,free,1,0.17065491653639897,"('iZplus',)",participants-only
+2014,free,2,0.31811328157179014,"('Opturion_CPX', 'iZplus')",participants-only
+2014,free,3,0.4259936042653745,"('Opturion_CPX', 'OR_Tools', 'iZplus')",participants-only
+2014,free,4,0.5076068249600472,"('Opturion_CPX', 'OR_Tools', 'iZplus', 'Picat_SAT')",participants-only
+2014,free,5,0.5588002891412153,"('Opturion_CPX', 'OR_Tools', 'iZplus', 'Picat_SAT', 'SICStus_Prolog')",participants-only
+2014,free,6,0.6099476998321042,"('Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'SICStus_Prolog')",participants-only
+2014,free,7,0.640817358027818,"('Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral', 'SICStus_Prolog')",participants-only
+2014,free,8,0.6533527256399164,"('Opturion_CPX', 'OR_Tools', 'iZplus', 'HaifaCSP', 'Picat_SAT', 'Mistral', 'SICStus_Prolog', 'Choco')",participants-only
+2015,free,1,0.11916968000997095,"('Opturion_CPX',)",participants-only
+2015,free,2,0.21199387853381405,"('OR_Tools', 'Opturion_CPX')",participants-only
+2015,free,3,0.29378615406243624,"('OR_Tools', 'Opturion_CPX', 'iZplus')",participants-only
+2015,free,4,0.34277031691997517,"('OR_Tools', 'Opturion_CPX', 'iZplus', 'Picat_SAT')",participants-only
+2015,free,5,0.4116827450070572,"('OscaR_CBLS', 'OR_Tools', 'Opturion_CPX', 'iZplus', 'Picat_SAT')",participants-only
+2015,free,6,0.4635214689326877,"('OscaR_CBLS', 'OR_Tools', 'Opturion_CPX', 'JaCoP', 'iZplus', 'Picat_SAT')",participants-only
+2015,free,7,0.5089013443824028,"('OscaR_CBLS', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT')",participants-only
+2015,free,8,0.5562402885612105,"('OscaR_CBLS', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco')",participants-only
+2015,free,9,0.5810944592429764,"('OscaR_CBLS', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'YACS')",participants-only
+2015,free,10,0.5893058324207966,"('OscaR_CBLS', 'MinisatID', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'iZplus', 'Picat_SAT', 'Choco', 'YACS')",participants-only
+2015,free,11,0.5903492164812169,"('OscaR_CBLS', 'MinisatID', 'OR_Tools', 'Opturion_CPX', 'Mistral', 'JaCoP', 'Picat_CP', 'iZplus', 'Picat_SAT', 'Choco', 'YACS')",participants-only
+2016,free,1,0.1218320383501203,"('HaifaCSP',)",participants-only
+2016,free,2,0.20695203119572655,"('Picat_SAT', 'HaifaCSP')",participants-only
+2016,free,3,0.2973005278394774,"('iZplus', 'Picat_SAT', 'HaifaCSP')",participants-only
+2016,free,4,0.3380245977393504,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'OR_Tools')",participants-only
+2016,free,5,0.35200704727471854,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'Choco', 'OR_Tools')",participants-only
+2016,free,6,0.36528616597213553,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'Choco', 'Mistral', 'OR_Tools')",participants-only
+2016,free,7,0.37096474070280977,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'Choco', 'JaCoP', 'Mistral', 'OR_Tools')",participants-only
+2016,free,8,0.37105362756438237,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'MinisatID', 'Choco', 'JaCoP', 'Mistral', 'OR_Tools')",participants-only
+2016,free,9,0.371070073935887,"('iZplus', 'Picat_SAT', 'HaifaCSP', 'MinisatID', 'Choco', 'JaCoP', 'Mistral', 'OR_Tools', 'SICStus_Prolog')",participants-only
+2017,free,1,0.14146737306999338,"('or_tools_lcg',)",participants-only
+2017,free,2,0.2209958414476524,"('or_tools_lcg', 'picat_sat')",participants-only
+2017,free,3,0.2821281247550564,"('or_tools_lcg', 'izplus', 'picat_sat')",participants-only
+2017,free,4,0.3471870678779537,"('or_tools_lcg', 'izplus', 'choco4', 'picat_sat')",participants-only
+2017,free,5,0.3930344754415372,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'concrete', 'picat_sat')",participants-only
+2017,free,6,0.44368821614864395,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'choco4', 'concrete', 'picat_sat')",participants-only
+2017,free,7,0.4693503490198392,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'jacop', 'choco4', 'concrete', 'picat_sat')",participants-only
+2017,free,8,0.49116649529575096,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'jacop', 'choco4', 'concrete', 'picat_sat', 'yuck')",participants-only
+2017,free,9,0.5181044357653837,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'jacop', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",participants-only
+2017,free,10,0.5353754165153067,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'mistral', 'jacop', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",participants-only
+2017,free,11,0.5465695845394909,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'mistral', 'jacop', 'or_tools_cp', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",participants-only
+2017,free,12,0.5527403577327927,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'mistral', 'haifacsp', 'jacop', 'or_tools_cp', 'choco4', 'concrete', 'oscar', 'picat_sat', 'yuck')",participants-only
+2017,free,13,0.5531483066205496,"('or_tools_lcg_core', 'or_tools_lcg', 'izplus', 'mistral', 'haifacsp', 'jacop', 'or_tools_cp', 'choco4', 'choco5', 'concrete', 'oscar', 'picat_sat', 'yuck')",participants-only
+2018,free,1,0.2240865367060133,"('or_tools',)",participants-only
+2018,free,2,0.3212467520763439,"('or_tools', 'picatsat')",participants-only
+2018,free,3,0.419824279297218,"('or_tools', 'izplus', 'picatsat')",participants-only
+2018,free,4,0.47642661351380355,"('or_tools', 'choco', 'izplus', 'picatsat')",participants-only
+2018,free,5,0.5435850505822403,"('or_tools', 'haifacsp', 'choco', 'izplus', 'picatsat')",participants-only
+2018,free,6,0.5891221535527968,"('or_tools', 'jacop', 'choco', 'izplus', 'picatsat', 'yuck')",participants-only
+2018,free,7,0.6394345052100435,"('or_tools', 'jacop', 'haifacsp', 'choco', 'izplus', 'picatsat', 'yuck')",participants-only
+2018,free,8,0.6529843027223111,"('or_tools', 'jacop', 'haifacsp', 'choco', 'izplus', 'oscarcbls', 'picatsat', 'yuck')",participants-only
+2018,free,9,0.6619217814667988,"('or_tools', 'jacop', 'haifacsp', 'choco', 'concrete', 'izplus', 'oscarcbls', 'picatsat', 'yuck')",participants-only
+2019,free,1,0.28096358061635873,"('or_tools',)",participants-only
+2019,free,2,0.3698893821143298,"('or_tools', 'picatsat')",participants-only
+2019,free,3,0.4216628394975518,"('or_tools', 'picatsat', 'sicstus')",participants-only
+2019,free,4,0.5056588315872622,"('or_tools', 'picatsat', 'yuck', 'sicstus')",participants-only
+2019,free,5,0.5907708251532494,"('or_tools', 'picatsat', 'izplus', 'yuck', 'sicstus')",participants-only
+2019,free,6,0.6204172350315138,"('or_tools', 'picatsat', 'izplus', 'yuck', 'jacop', 'sicstus')",participants-only
+2019,free,7,0.6338323022061534,"('or_tools', 'picatsat', 'izplus', 'yuck', 'concrete', 'jacop', 'sicstus')",participants-only
+2019,free,8,0.6422601126945104,"('or_tools', 'picatsat', 'izplus', 'yuck', 'concrete', 'oscarcbls', 'jacop', 'sicstus')",participants-only
+2019,free,9,0.6458156637147565,"('or_tools', 'picatsat', 'izplus', 'yuck', 'concrete', 'oscarcbls', 'jacop', 'choco', 'sicstus')",participants-only
+2020,free,1,0.45841404069238323,"('or_tools',)",participants-only
+2020,free,2,0.540716951237646,"('or_tools', 'flatzingo')",participants-only
+2020,free,3,0.5988275611787722,"('or_tools', 'sicstus', 'flatzingo')",participants-only
+2020,free,4,0.655076611419338,"('or_tools', 'sicstus', 'mistral', 'flatzingo')",participants-only
+2020,free,5,0.655076611419338,"('or_tools', 'sicstus', 'mistral', 'flatzingo', 'oscarcbls')",participants-only
+2020,free,6,0.6750171655272749,"('or_tools', 'sicstus', 'mistral', 'picatsat', 'flatzingo', 'oscarcbls')",participants-only
+2020,free,7,0.6829188497324024,"('or_tools', 'sicstus', 'mistral', 'picatsat', 'choco', 'flatzingo', 'oscarcbls')",participants-only
+2020,free,8,0.6905142662349104,"('or_tools', 'jacop', 'sicstus', 'mistral', 'picatsat', 'choco', 'flatzingo', 'oscarcbls')",participants-only
+2020,free,9,0.6937714432463777,"('or_tools', 'jacop', 'sicstus', 'mistral', 'picatsat', 'choco', 'flatzingo', 'optimathsat_int', 'oscarcbls')",participants-only
+2020,free,10,0.6949683500630122,"('or_tools', 'jacop', 'sicstus', 'mistral', 'picatsat', 'choco', 'flatzingo', 'optimathsat_int', 'oscarcbls', 'yuck')",participants-only
+2021,free,1,0.35033567762690454,"('or_tools_cp_sat',)",participants-only
+2021,free,2,0.41619697685271584,"('or_tools_cp_sat', 'yuck')",participants-only
+2021,free,3,0.48769183706623703,"('or_tools_cp_sat', 'picatsat', 'yuck')",participants-only
+2021,free,4,0.5386981993133115,"('or_tools_cp_sat', 'picatsat', 'choco_solver_4_10_7', 'yuck')",participants-only
+2021,free,5,0.5646413855766712,"('or_tools_cp_sat', 'picatsat', 'choco_solver_4_10_7', 'jacop', 'yuck')",participants-only
+2021,free,6,0.5778125021170698,"('or_tools_cp_sat', 'picatsat', 'coin_or_cbc', 'choco_solver_4_10_7', 'jacop', 'yuck')",participants-only
+2021,free,7,0.6000617561255067,"('izplus', 'or_tools_cp_sat', 'picatsat', 'coin_or_cbc', 'choco_solver_4_10_7', 'jacop', 'yuck')",participants-only
+2021,free,8,0.6137513532276685,"('izplus', 'or_tools_cp_sat', 'picatsat', 'coin_or_cbc', 'mistral_2_0', 'choco_solver_4_10_7', 'jacop', 'yuck')",participants-only
+2021,free,9,0.622609332535416,"('izplus', 'or_tools_cp_sat', 'flatzingo', 'picatsat', 'coin_or_cbc', 'mistral_2_0', 'choco_solver_4_10_7', 'jacop', 'yuck')",participants-only
